@@ -1,0 +1,37 @@
+//
+// This file strutures pages and modules into a convenient hierarchical
+// structure.
+//
+
+namespace ExampleAPIDocumentation
+{
+
+/**
+
+@page UserManual_Generalities General Topics
+  - @subpage TopicExampleA
+  - @subpage TopicExampleB
+  - @subpage TopicExampleC
+
+*/
+
+/**
+
+@page UserManual_ExampleApplications Example Applications
+  - @subpage Hello World Example
+  - @subpage Simple Example App
+  - @subpage Complex Example App
+
+*/
+
+/**
+
+@internal @brief Namespace containing low-level routines for the API.
+
+*/
+
+namespace internal
+{
+}
+
+}
