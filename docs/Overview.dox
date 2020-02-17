@@ -18,8 +18,8 @@ of the API in a very condensed format that is specially useful to recall the
 syntax of a particular feature, or to have a quick look at the API. They
 currently cover the two following template applications, and more will come in
 the future:
-  - @link QuickRefPage Example Application #1 @endlink
-  - @link ExampleApplications Example Application #2 @endlink
+  - @link HelloWorldExample Example Application #1 @endlink
+  - @link ComplexExample Example Application #2 @endlink
 
 
 The @b main @b documentation is organized into @em sections covering different

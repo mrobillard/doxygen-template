@@ -13,10 +13,9 @@ namespace APIDocumentationExample
 
 @tableofcontents
 
-Here is an example application taken form snippets and put into here. 
+Here is a complex example application taken form snippets and put into here. 
 
-@snippet snippets/example.cpp Hello, Framework Example
-
+@include complex_example.cpp 
 */
 
 }

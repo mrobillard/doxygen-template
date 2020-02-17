@@ -14,10 +14,13 @@ For other platforms, use the official install [instructions](http://www.doxygen.
 
 ## Structure 
 
-* Manual 
-* Overview
-* Topic
-* Getting Started 
+* `Manual.dox`: Arrangement of pages and corresponding subpages. 
+* `Overview.dox`: Main page for documentation.
+* `Topic[x].dox`: Topic pages individual topics.
+* `GettingStarted.dox`: A starting point for someone first learning. 
+* `ClassHierarchy`: A description of how the classes or modules fit together. 
+* `ExampleApplictions.dox`: A collection of example applications and snippets. 
+* `QuickReferenceGuide.dox`: A brief, concise overview of API, helpful for remembering syntax. 
 
 ### Integrating Into a Project
 
@@ -33,14 +36,16 @@ API
      |- [file].dox
  |- inc
  |- src
+ |- Doxyfile
+ |- Makefile
  |- ...
 ```
 
 ## Conventions 
 
 * Pure Doxygen files use the file extension `*.dox`
-* If the language supports the use of include or header files (e.g. \*.h, \*.hpp), doxygen comments should reside there. 
-*  
+* If the language supports the use of include or header files (e.g. \*.h, \*.hpp), doxygen comments for
+source code should reside there. 
 
 ## Doxyfile
 
@@ -53,7 +58,6 @@ Change the following in the `Doxyfile`:
 * `INPUT` - Input directories for source files. 
 * `EXAMPLE_PATH` - The path for snippets.
 * `IMAGE_PATH` - The path for images referenced in Doxygen comment blocks.
-
 
 Personal configurations:
 
