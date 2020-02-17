@@ -1,0 +1,20 @@
+//
+// This page is the parent page for the class hierarchy.
+//
+
+namespace APIDocumentationExample
+{
+
+/**
+
+@page TopicClassHierarchy Class Hierarchy
+
+@note This page needs some work!
+
+@tableofcontents
+
+Principles, core classes, and inheritance diagrams
+
+*/
+
+}

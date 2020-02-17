@@ -18,9 +18,8 @@ namespace ExampleAPIDocumentation
 /**
 
 @page UserManual_ExampleApplications Example Applications
-  - @subpage Hello World Example
-  - @subpage Simple Example App
-  - @subpage Complex Example App
+  - @subpage HelloWorldExample
+  - @subpage ComplexExample
 
 */
 

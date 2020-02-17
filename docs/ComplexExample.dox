@@ -1,0 +1,22 @@
+//
+// This page demonstrates a complex example application.
+//
+
+namespace APIDocumentationExample
+{
+
+/**
+
+@page ComplexExample Complex Example Application
+
+@note This page needs some work!
+
+@tableofcontents
+
+Here is an example application taken form snippets and put into here. 
+
+@snippet snippets/example.cpp Hello, Framework Example
+
+*/
+
+}

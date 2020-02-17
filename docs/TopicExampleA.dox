@@ -1,0 +1,43 @@
+//
+// This page describes Topic A
+//
+
+namespace ExampleAPIDocumentation
+{
+
+/**
+
+@page TopicExampleA Topic A
+
+@note This page needs some work!
+
+@tableofcontents
+
+@section TopicA_Part1 Part 1
+
+- High-level information on Topic A
+- Another piece of information on Topic A
+
+@subsection TopicA_Example Example
+
+@code{.cpp}
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello, API Documentation!";
+    return 0;
+}
+
+@endcode
+
+@section TopicA_Part2 Part 2
+
+- Information on Part 2
+- Some more detailed information on Part 2
+
+*/
+
+}

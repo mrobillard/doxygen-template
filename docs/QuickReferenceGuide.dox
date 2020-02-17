@@ -1,0 +1,16 @@
+//
+// Quick Reference Page. 
+//
+
+namespace ExampleAPIDocumentation
+{
+
+/**
+
+@page QuickRefPage Quick Reference Guide
+
+@note This page needs some work!
+
+*/
+
+}

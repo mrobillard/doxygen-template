@@ -1,0 +1,33 @@
+//
+// Topic C
+//
+
+namespace ExampleAPIDocumentation
+{
+
+/**
+
+@page TopicExampleC Topic C
+
+@note This page needs some work!
+
+### Example Interfaces and Classes ###
+
+- @c CMessageDescriptor
+- @c ITransportLayer
+
+### Overview ###
+
+- Topic C is an overview of communication classes and interfaces. 
+- You can also use sub-bullet points to add more detail:
+  + Sub-bullet's can help further expand on an idea. 
+  + If you want, you can reference code in-line with a monospace font by using 
+    this tag: <tt>CTransportable::WriteData()</tt>. 
+- You can also include images or diagrams to further help explain the topic. 
+
+@image html ExampleFrameworkComms.png "Application Communication"
+@image latex ExampleFrameworkComms.png "Application Communication"
+
+*/
+
+}

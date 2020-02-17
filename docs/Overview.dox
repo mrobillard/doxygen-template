@@ -1,5 +1,5 @@
 //
-// 3PFW Mainpage
+// API Mainpage
 //
 
 namespace APIDocumentationExample
@@ -18,8 +18,8 @@ of the API in a very condensed format that is specially useful to recall the
 syntax of a particular feature, or to have a quick look at the API. They
 currently cover the two following template applications, and more will come in
 the future:
-  - @link QuickRefPage [QuickRef] Example Application #1 @endlink
-  - @link SparseQuickRefPage [QuickRef] Example Application #2 @endlink
+  - @link QuickRefPage Example Application #1 @endlink
+  - @link ExampleApplications Example Application #2 @endlink
 
 
 The @b main @b documentation is organized into @em sections covering different
@@ -29,8 +29,7 @@ pages that gives you access to the API documentation through the related
 @em modules and @em classes.
 
 Under the @subpage UserManual_Generalities section, you will find documentation
-on more general topics such as preprocessor directives, controlling assertions,
-multi-threading, MKL support, some internal insights, and much more...
+on more general topics such as x, y, z, some internal insights and much more...
 
 Finally, do not miss the search engine, useful to quickly get to the
 documentation of a given class or function.

@@ -1,0 +1,21 @@
+//
+// This page describes Topic B
+//
+
+namespace ExampleAPIDocumentation
+{
+
+/**
+
+@page TopicExampleB Topic B
+
+The Example API Documentation offers two different ways to perform Topic B. 
+If you have a lot of documentation for a topic, you can list them in subpages
+to avoid creating a single, massive scrolling page.  
+
+- @subpage TopicBMethod1 
+- @subpage TopicBMethod2 
+
+*/
+
+}
